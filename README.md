@@ -1,3 +1,4 @@
 I compressed everything from learncpp.com in a book format which took me a long time as i didnt do these things before. also sorry for bad english.
 You will have some hard time navigating as its a big pdf.
 LearnCPP is the best site imo and i downloaded all its content in pdf and present it to you. download it and study offline...
+Here is the google drive link - https://drive.google.com/file/d/1RjLPiE8SD-MOfQRkwRi4ChcTqrdEUn5c/view?usp=sharing
